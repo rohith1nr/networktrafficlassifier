@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Dataset
 The notebook uses a dataset named `HTTPS-clf-dataset.csv`. Ensure the file is located in the same directory as the notebook or update the file path accordingly. The dataset contains various features related to HTTPS traffic, which will be used to classify the data into different categories.
-For dataset---https://www.kaggle.com/datasets/inhngcn/https-traffic-classification
+
 
 ## Execution Steps
 
